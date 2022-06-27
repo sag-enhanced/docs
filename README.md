@@ -1,5 +1,5 @@
 
 # Documentation
 
-- [Custom Domains](#customdomain.md)
-- [Get the extension](#extension.md)
+- [Custom Domains](customdomain.md)
+- [Get the extension](extension.md)

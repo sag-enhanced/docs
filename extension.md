@@ -1,6 +1,8 @@
 
 # Extension
 
+We **strongly** recommend using Firefox because the Chrome extension may stop working [in 2023](https://developer.chrome.com/docs/extensions/mv3/mv2-sunset/).
+
 ## Chromium
 
 (for Google Chrome, Brave, Microsoft Edge, Opera, ...)
@@ -15,7 +17,5 @@
 
 ## Firefox
 
-1. Download the `.xpi` from the [Releases](https://github.com/sag-enhanced/browser-extension/releases) page
-2. Go to your browser settings page
-3. Click on `Extensions` to reach the extensions settings
-4. Drag the `.xpi` file into the extensions page
+1. Go to the [Releases](https://github.com/sag-enhanced/browser-extension/releases) page
+2. Download the `.xpi` file and install it.

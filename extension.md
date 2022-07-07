@@ -7,6 +7,8 @@ We **strongly** recommend using Firefox because the Chrome extension may stop wo
 
 (for Google Chrome, Brave, Microsoft Edge, Opera, ...)
 
+[Video guide for Chrome](https://youtu.be/Iau50gDdhM8)
+
 1. Download the `Source code (zip)` file from [here](https://github.com/sag-enhanced/browser-extension/releases)
 2. Extract the folder in a persistent location
 3. Go to your browser settings page
@@ -16,6 +18,8 @@ We **strongly** recommend using Firefox because the Chrome extension may stop wo
 7. Enjoy!
 
 ## Firefox
+
+[Video guide for Firefox](https://youtu.be/kINmrXz9pB4)
 
 1. Go to the [Releases](https://github.com/sag-enhanced/browser-extension/releases) page
 2. Download the `.xpi` file and install it.

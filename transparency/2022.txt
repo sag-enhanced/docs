@@ -1,10 +1,4 @@
 
-## Historical generations
-
-------|--Jan--|--Feb--|--Mar--|--Apr--|--May--|--Jun--|--Jul--|--Aug--|--Sep--|--Oct--|--Nov--|--Dec--|--TOTAL--|
- 2022 |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |    75 |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |      75 |
- 2023 |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |    ?    |
-
 ## 2022 June
 
 Domains:
@@ -24,3 +18,23 @@ Total:
   Previous balance         0.00 EUR
   Difference              -1.42 EUR
   Ending balance          -1.42 EUR
+
+## 2022 July
+
+Domains:
+
+---------|-Added-|-Removed-|-Banned-|-Total-|
+ Free    |     1 |       1 |      0 |     1 |
+ Patreon |     0 |       0 |      0 |     1 |
+
+Incomes:
+  Patreon                 +2.22 EUR
+
+Expenses:
+  Domain registrations     0.00 EUR
+  Hosting                  0.00 EUR
+
+Total:
+  Previous balance        -1.42 EUR
+  Difference              +2.22 EUR
+  Ending balance          +0.80 EUR

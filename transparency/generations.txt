@@ -1,0 +1,6 @@
+
+## Historical generations
+
+------|--Jan--|--Feb--|--Mar--|--Apr--|--May--|--Jun--|--Jul--|--Aug--|--Sep--|--Oct--|--Nov--|--Dec--|--TOTAL--|
+ 2022 |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |    75 |  983  |   ?   |   ?   |   ?   |   ?   |   ?   |    1058 |
+ 2023 |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |   ?   |    ?    |

@@ -17,6 +17,8 @@ hundreds of accounts each month.
 Additionally, steam has completely banned a few top level domains (TLDs):
 
 - `.xyz`
+- `.ru.com`
+- `.za.com`
 - All free domains (`.cf`, `.ga`, ...)
 
 We recommend buying [cheap domains](https://www.namecheap.com/promos/99-cent-domain-names/) for one year at a time. (because they are often only cheap first year and then expensive after that)

@@ -6,7 +6,7 @@ Supports us on [Patreon](https://patreon.com/sag_enhanced)!
 As a thanks:
 
 - Patreon domain pool (domains are shuffled all the time to prevent bans)
-- Discord role (link your Discord to patreon)
+- Discord role (link your Discord [on Patreon](https://www.patreon.com/settings/apps))
 
 ## How to use Patreon Domain Pool
 

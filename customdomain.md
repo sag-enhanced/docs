@@ -29,4 +29,4 @@ We recommend buying [cheap domains](https://www.namecheap.com/promos/99-cent-dom
 
 Use `Catch-all address` with `sage@leodev.xyz` as destination.
 
-Ask in [#sage in our Discord](https://leodev.xyz/discord) for the verification email.
+Ask in [#help in our Discord](https://sage.leodev.xyz/discord) for the verification email.

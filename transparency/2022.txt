@@ -58,3 +58,23 @@ Total:
   Previous balance        +0.80 EUR
   Difference              +6.80 EUR
   Ending balance          +7.60 EUR
+
+## 2022 September
+
+Domains:
+
+---------|-Added-|-Removed-|-Banned-|-Total-|
+ Free    |     0 |      27 |     27 |     1 |
+ Patreon |     0 |     106 |    106 |     1 |
+
+Incomes:
+  Patreon                 +9.66 EUR
+
+Expenses:
+  Domain registrations     0.00 EUR
+  Hosting                  0.00 EUR
+
+Total:
+  Previous balance       + 7.60 EUR
+  Difference             + 9.66 EUR
+  Ending balance         +17.27 EUR

@@ -30,4 +30,7 @@ We recommend buying [cheap domains](https://www.namecheap.com/promos/99-cent-dom
 
 Use `Catch-all address` with `sage@leodev.xyz` as destination.
 
-Ask in [#help in our Discord](https://sage.leodev.xyz/discord) for the verification email.
+Create [a ticket in our Discord](https://sage.leodev.xyz/discord) for the verification email.
+
+**Please include the email of your Cloudflare account when opening the ticket.
+Verification emails do not include your domain, but your Cloudflare email.**

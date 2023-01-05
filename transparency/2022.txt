@@ -118,3 +118,25 @@ Total:
   Previous balance       +57.43 EUR
   Difference             +28.40 EUR
   Ending balance         +85.83 EUR
+
+## 2022 December
+
+Domains:
+
+---------|-Added-|-Removed-|-Banned-|-Total-|
+ Free    |     0 |       1 |      1 |     0 |
+ Patreon |     0 |       0 |      0 |     1 |
+
+Incomes:
+  Patreon                +59.63 EUR
+
+Expenses:
+  Domain registrations     0.00 EUR
+  Hosting                  0.00 EUR
+
+Total:
+  Previous balance     +  85.83 EUR
+  Difference           +  59.63 EUR
+  Ending balance       + 145,46 EUR
+
+Happy new year!

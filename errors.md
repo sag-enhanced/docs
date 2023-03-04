@@ -18,25 +18,22 @@ an account with.
    - You will have to buy a new one
 
 3. Are you using our `Patreon domain` pool?
-   - try generating again, it should give you a new domain
    - inform us so we can remove the domain!
 
 
-## Steam is limiting account creations from your IP.
+## Steam is temporarily limiting account creations.
 
-**Please don't ask us, we can't help you. This is an issue between you and Steam**
+Steam is limiting account creations by IPs AND email domain.
 
-Steam is limiting account creations from every IP and it seems like you hit the limit.
+- IP limit: `15/day`
+- Domain limit: `200/day` (rough estimate)
 
-The limit is: `15 per day per ip`.
-
-If you hit this limit but did not generate any accounts, it's probably that someone
-with the same ip address hit it (due to ip address sharing) or that steam does not
-trust you.
-
-You can try changing your IP to resolve this issue:
+You can try the following with your IP to resolve this issue:
 1. restart your router to get a new IP (only works if you have a dynamic IP)
 2. use a **good** vpn or **good** residential proxies
+3. wait a day
+
+Get a (new) [custom domain](customdomain.md) for domain limits.
 
 
 ## Steam refused account generation.

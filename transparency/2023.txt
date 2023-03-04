@@ -25,3 +25,32 @@ Total:
   Negative difference  -   3.16 EUR
   
   Ending balance       + 204.86 EUR
+
+## 2023 Feburary
+
+Domains:
+
+---------|-Added-|-Removed-|-Banned-|-Total-|
+ Free    |     1 |       0 |      0 |     1 |
+ Patreon |    11 |       0 |      0 |    11 |
+
+Incomes:
+  Patreon              +  83.49 EUR
+  Crypto               +   0.00 EUR
+
+  Total                +  83.49 EUR
+
+Expenses:
+  Domain registrations
+    Cloudflare (+ 1)   -   3.16 EUR
+    NameCheap  (+10)   -  14.49 EUR
+  Hosting                  0.00 EUR
+
+  Total                -  17.65 EUR
+
+Total:
+  Previous balance     + 204.86 EUR
+  Positive difference  +  83.49 EUR
+  Negative difference  -  17.65 EUR
+  
+  Ending balance       + 270,70 EUR

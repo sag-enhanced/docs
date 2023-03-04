@@ -5,7 +5,7 @@ Domains:
 
 ---------|-Added-|-Removed-|-Banned-|-Total-|
  Free    |     0 |       1 |      1 |     0 |
- Patreon |     0 |       0 |      0 |     1 |
+ Patreon |     1 |       0 |      0 |     2 |
 
 Incomes:
   Patreon              +  59.63 EUR
@@ -32,7 +32,7 @@ Domains:
 
 ---------|-Added-|-Removed-|-Banned-|-Total-|
  Free    |     1 |       0 |      0 |     1 |
- Patreon |    11 |       0 |      0 |    11 |
+ Patreon |    10 |       0 |      0 |    10 |
 
 Incomes:
   Patreon              +  83.49 EUR

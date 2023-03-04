@@ -14,14 +14,14 @@ Incomes:
   Total                +  62.46 EUR
 
 Expenses:
-  Domain registrations -   4.16 EUR
+  Domain registrations -   3.16 EUR
   Hosting                  0.00 EUR
 
-  Total                -   4.16 EUR
+  Total                -   3.16 EUR
 
 Total:
   Previous balance     + 145,46 EUR
   Positive difference  +  62.46 EUR
-  Negative difference  -   4.16 EUR
+  Negative difference  -   3.16 EUR
   
-  Ending balance       + 203.86 EUR
+  Ending balance       + 204.86 EUR

@@ -34,3 +34,16 @@ Create [a ticket in our Discord](https://sage.leodev.xyz/discord) for the verifi
 
 **Please include the email of your Cloudflare account when opening the ticket.
 Verification emails do not include your domain, but your Cloudflare email.**
+
+## E-Mail forwarding using NameCheap
+
+*Only applies if you have bought your domain on NameCheap*
+
+1. Go to your [Dashboard](https://ap.www.namecheap.com/).
+2. Click `MANAGE` next to your domain
+3. Scroll down to `REDIRECT EMAIL`
+4. Click `ADD CATCH-All`
+5. Set `sage@leodev.xyz` as forward to
+6. Click √ to save your changes
+
+May take a few minutes to apply, then it should work.

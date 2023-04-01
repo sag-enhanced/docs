@@ -53,4 +53,4 @@ Total:
   Positive difference  +  83.49 EUR
   Negative difference  -  17.65 EUR
   
-  Ending balance       + 270,70 EUR
+  Ending balance       + 270.70 EUR

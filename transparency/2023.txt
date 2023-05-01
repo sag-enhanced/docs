@@ -81,3 +81,30 @@ Total:
   Negative difference      0.00 EUR
   
   Ending balance       + 391.01 EUR
+
+## 2023 April
+
+Domains:
+
+---------|-Added-|-Removed-|-Banned-|-Total-|
+ Free    |     0 |       0 |      0 |     1 |
+ Patreon |     0 |       0 |      0 |    10 |
+
+Incomes:
+  Patreon              + 103.34 EUR
+  Crypto               +   0.00 EUR
+
+  Total                + 103.34 EUR
+
+Expenses:
+  Domain registrations     0.00 EUR
+  Hosting                  0.00 EUR
+
+  Total                    0.00 EUR
+
+Total:
+  Previous balance     + 391.01 EUR
+  Positive difference  + 103.34 EUR
+  Negative difference      0.00 EUR
+  
+  Ending balance       + 494.35 EUR

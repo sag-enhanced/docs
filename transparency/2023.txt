@@ -20,7 +20,7 @@ Expenses:
   Total                -   3.16 EUR
 
 Total:
-  Previous balance     + 145,46 EUR
+  Previous balance     + 145.46 EUR
   Positive difference  +  62.46 EUR
   Negative difference  -   3.16 EUR
   
@@ -80,4 +80,4 @@ Total:
   Positive difference  + 120.31 EUR
   Negative difference      0.00 EUR
   
-  Ending balance       + 391,01 EUR
+  Ending balance       + 391.01 EUR

@@ -19,14 +19,19 @@ Which just isn't possible without an extension.
 +++ Firefox
 
 1. Go to the [Releases][1] page
-2. Download the `.xpi` and install it
+2. Download the `.xpi` file and install it
+3. Done!
 
 [!ref Video Guide](https://youtu.be/kINmrXz9pB4) TOOD: UPDATE VIDEO
 
 +++ Chrome
 
 1. Go to the [Releases][1] page
-2. Download the `.crx` and install it
+2. Download the `Source code (zip)` file 
+3. Extract it to a persistent location (eg your desktop)
+4. Go to `chrome://extensions/` and click on `Enable developer mode`
+5. Click on `Load unpacked` and select the directory from step 3
+6. Done!
 
 [!ref Video Guide](https://youtu.be/Iau50gDdhM8) TOOD: UPDATE VIDEO
 

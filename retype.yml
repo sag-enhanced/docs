@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: https://docs.sage.party
+branding:
+  title: SAGE
+links:
+  - text: Home
+    link: /
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+cname: false

@@ -1,46 +1,50 @@
+---
+order: 10
+---
 
-# Extension
+# SAGE Extension
 
-We **strongly** recommend using Firefox because the Chrome extension may stop working [in June 2023](https://developer.chrome.com/docs/extensions/mv3/mv2-sunset/).
+SAGE needs a Browser Extension to properly function.
 
+SAGE needs to:
 
-## Firefox
+- get and modify Steam session cookies
+- send arbitrary requests to Steam (to bypass CORS)
+- intercept the CAPTCHA
 
-[Video guide for Firefox](https://youtu.be/kINmrXz9pB4)
+Which just isn't possible without an extension.
 
-1. Go to the [Releases](https://github.com/sag-enhanced/browser-extension/releases) page
-2. Download the `.xpi` file and install it.
-## Chromium
+## Installing
 
-For all chromium based browsers! (like Google Chrome, Microsoft Edge etc)
++++ Firefox
 
-[Video guide for Chrome](https://youtu.be/Iau50gDdhM8)
+1. Go to the [Releases][1] page
+2. Download the `.xpi` and install it
 
-1. Download the `Source code (zip)` file from [here](https://github.com/sag-enhanced/browser-extension/releases)
-2. Extract the folder in a persistent location
-3. Go to your browser settings page
-4. Click on `Extensions` to reach the extensions settings
-5. Click on `Enable developer mode`
-6. Click on `Load unpacked` and select the folder from step 2
-7. Enjoy!
+[!ref Video Guide](https://youtu.be/kINmrXz9pB4) TOOD: UPDATE VIDEO
 
-## Support
++++ Chrome
 
-Only Firefox and raw Chromium + Google Chrome are supported!
-All other browsers may or may not work, but that is purely by coincidence.
+1. Go to the [Releases][1] page
+2. Download the `.crx` and install it
 
-1st-class citizens (full support):
+[!ref Video Guide](https://youtu.be/Iau50gDdhM8) TOOD: UPDATE VIDEO
 
-- **SUPPORTED** Firefox
-- **SUPPORTED** Chromium + Google Chrome
++++ Other
 
-2nd-class citizens (may or may not work):
+Other browsers such as _Internet Explorer_, _Safari_, _Opera (GX)_, _Brave_ etc.
+are **not supported**.
 
-- **?** Microsoft Edge
-- **?** Brave
+If they work, that's purely coincidental. We will not offer any help or support
+for these browsers.
 
-Foreigners (unsupported):
++++
 
-- **UNSUPPORTED** Internet Explorer
-- **UNSUPPORTED** Safari
-- **UNSUPPORTED** Opera and Opera GX
+[1]: https://github.com/sag-enhanced/browser-extension/releases
+
+## Source Code
+
+The extension is open-source. You can inspect the code. If you don't trust our
+builds, you can also pack it yourself.
+
+[!ref Extension Source](https://github.com/sag-enhanced/browser-extension)

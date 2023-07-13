@@ -34,12 +34,16 @@ We have a Patreon! You can subscribe with PayPal or Credit Card for as little as
 To get your role on [our Discord](https://sage.party/discord), you need to
 [link your Discord account to Patreon](https://www.patreon.com/settings/apps).
 
-!!! Basic (1€/mo) vs Cool Tier (5€/mo) There is no functional differences
-between the two tiers except the Discord role you get.
+!!! Basic (1€/mo) vs Cool Tier (5€/mo)
+
+There is no functional differences between the two tiers except the Discord role
+you get.
 
 - Basic Patrons receive the `Basic Patron` role
 - Cool Patrons receive the `Cool Patron` role - darker purple color - above
-  `Basic Patron` in the member list - cooler !!!
+  `Basic Patron` in the member list - cooler
+
+!!!
 
 ### Crypto
 

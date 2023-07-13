@@ -27,7 +27,7 @@ Which just isn't possible without an extension.
 +++ Chrome
 
 1. Go to the [Releases][1] page
-2. Download the `sage-chromium.zip` file 
+2. Download the `sage-chromium.zip` file
 3. Extract it to a persistent location (eg your desktop)
 4. Go to `chrome://extensions/` and click on `Enable developer mode`
 5. Click on `Load unpacked` and select the directory from step 3

@@ -120,4 +120,4 @@ After the process is completed, you can remove the TXT record again.
 
 If you set a password, we will remember it and you'll only need to provide the
 password the next time you **add the domain**. If you didn't set a password, or
-forgot it, you will need to re-done the DNS verification.
+forgot it, you will need to redo the DNS verification.

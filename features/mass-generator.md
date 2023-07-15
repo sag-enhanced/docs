@@ -11,10 +11,12 @@ concurrent.
 
 ## Features
 
-- Automatically opens CAPTCHAs for you
+- Automatically opens CAPTCHAs for you[^1]
 - Concurrently generates accounts
 - Account History of the session
 - Automatic stop when IP/Domain or other limits are detected
+
+[^1]: You can use a CAPTCHA solving service like [NopeCHA](https://nopecha.com) to solve the CAPTCHA.
 
 ## Activate
 

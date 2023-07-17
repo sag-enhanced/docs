@@ -40,8 +40,10 @@ There is no functional differences between the two tiers except the Discord role
 you get.
 
 - Basic Patrons receive the `Basic Patron` role
-- Cool Patrons receive the `Cool Patron` role - darker purple color - above
-  `Basic Patron` in the member list - cooler
+- Cool Patrons receive the `Cool Patron` role
+  - darker purple color
+  - above `Basic Patron` in the member list
+  - cooler
 
 !!!
 

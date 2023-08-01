@@ -6,10 +6,10 @@ Provided on an "best-effort" basis.
 
 ## Monthly Account Generations
 
-| Year | January | February | March | April | May   | June  | July | August | September | October | November | December |  Total |
-| ---- | ------- | -------- | ----- | ----- | ----- | ----- | ---- | ------ | --------- | ------- | -------- | -------- | ------ |
-| 2022 | N/A     | N/A      | N/A   | N/A   | N/A   | 75    | 983  | 3971   | 3436      | 9036    | 9900     | 5615     | 33006  |
-| 2023 | 6154    | 5686     | 8434  | 10614 | 26060 | 24267 | ?    | ?      | ?         | ?       | ?        | ?        | 81215  |
+| Year | January | February | March | April | May   | June  | July  | August | September | October | November | December |  Total |
+| ---- | ------- | -------- | ----- | ----- | ----- | ----- | ----- | ------ | --------- | ------- | -------- | -------- | ------ |
+| 2022 | N/A     | N/A      | N/A   | N/A   | N/A   | 75    | 983   | 3971   | 3436      | 9036    | 9900     | 5615     | 33006  |
+| 2023 | 6154    | 5686     | 8434  | 10614 | 26060 | 24267 | 31251 | ?      | ?         | ?       | ?        | ?        | 112466 |
 
 - N/A: SAGE not launched yet
 - ?: data not available yet
@@ -17,6 +17,28 @@ Provided on an "best-effort" basis.
 ## Financial & Domains
 
 Historical income and expenses.
+
+==- July, 2023
+
+Domain pools:
+
+| Pool    | Added | Removed | Total |
+| ------- | ----- | ------- | ----- |
+| Free    | 0     | 0       | 1     |
+| Premium | 0     | 0       | 10    |
+
+Financial:
+
+- Income: +137.97 EUR
+  - Patreon: +134.77 EUR
+  - Crypto: +3.20 EUR
+- Expenses: N/A
+- Total:
+  - Previous: +713.72 EUR
+  - Difference: +137.97 EUR
+  - Total: +851.69 EUR
+
+===
 
 ==- June, 2023
 

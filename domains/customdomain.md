@@ -42,6 +42,7 @@ We recommend the following TLDs for Cloudflare: (3.98$ renewal)
 
 - `.win`
 - `.trade`
+- `.stream`
 - `.party`
 - `.men`
 - `.loan`

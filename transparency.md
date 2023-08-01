@@ -29,13 +29,13 @@ Domain pools:
 
 Financial:
 
-- Income: +114.77 EUR
-  - Patreon: +114.77 EUR
+- Income: +108.79 EUR
+  - Patreon: +108.79 EUR
 - Expenses: N/A
 - Total:
   - Previous: +604.93 EUR
-  - Difference: +114.77 EUR
-  - Total: +719.70 EUR
+  - Difference: +108.79 EUR
+  - Total: +713.72 EUR
 
 ===
 

@@ -22,6 +22,8 @@ Options:
 - Default: keeps the default\*
 - Random: random profile name
 - Static: static string
+- Replace: static string where % is replaced with random chars (for
+  prefix/suffix)
 - [China Boosting](https://china.boosting.win): this is an insider
 
 \*: It uses your E-Mail address name by default, which you don't control.

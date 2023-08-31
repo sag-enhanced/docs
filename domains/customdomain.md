@@ -107,8 +107,8 @@ for this.
 !!!warning Verification E-Mail
 
 If this is your first-time setup, Cloudflare will sent a Verification E-Mail to
-us. Please open a ticket in our [Discord server](https://sage.party/discord) and
-send us your Cloudflare E-Mail, so we can send you the verification link.
+us.
+We will approve this when we have time, you don't need to do anything but wait.
 
 !!!
 

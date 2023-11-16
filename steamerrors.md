@@ -48,6 +48,9 @@ try multiple times before declaring the IP as dead.
 ([Mass Generator](features/mass-generator.md) will retry up to 5 times before
 aborting)
 
+**We cannot help you. We are not Steam, we cannot magically bypass this, please
+stop asking.**
+
 ===
 
 ==- [105] Steam has banned your IP
